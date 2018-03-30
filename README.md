@@ -2,8 +2,8 @@
 > cornel-box based obj model
 
 # Origin
-This model is inspired from nori path tracer's gallery.  
-[http://www.cs.cornell.edu/courses/cs6630/2012sp/nori/]
+This model is inspired from [nori path tracer's gallery](http://www.cs.cornell.edu/courses/cs6630/2012sp/nori/).  
+
 ![](original-box.png)
 
 # About this
